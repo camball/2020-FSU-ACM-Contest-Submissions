@@ -7,7 +7,7 @@ Working test cases:
 - racecarB
 - A nut for a jarg of tuna
 - Borrqow or rob?
-- Either/or, depending on line 57 being commented out or not
+- Either/or, depending on line 55 being commented out or not
 	- abaab
 	- baaba
 - Ed, I saw Harpo Marx ram Oprah W. asfide.
