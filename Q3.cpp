@@ -15,8 +15,6 @@ int main()
 {
     string input, temp;
     
-    cout << "Hello" << std::endl;
-    
     getline( cin, input, '\n' );
     
     for (int i = 0; i < input.size(); i++) {
