@@ -1,0 +1,20 @@
+Working test cases:
+- [Any case where the palindrome is a correct palindrome]
+- A man a plank a canal Panama
+- A man a planm a canal Panama
+- A man a plan a caknal Panama
+- Bracecar
+- racecarB
+- A nut for a jarg of tuna
+- Borrqow or rob?
+- Either/or, depending on line 57 being commented out or not
+	- abaab
+	- baaba
+- Ed, I saw Harpo Marx ram Oprah W. asfide.
+- Madram, in Eden, I’m Adam.
+
+Unsolvable ambiguous cases:
+- Borrowq or rob?
+- raceBcar
+	- comes out to racBcar
+	- racBecar --> racecar
